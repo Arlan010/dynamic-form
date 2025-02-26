@@ -16,7 +16,7 @@ Dynamic Form Builder — это React-компонент для гибкого �
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Arlan010/dynamic-form.git
-   cd dynamic-form
+   cd dynamic-form-builder
    ```
 
 2. Установите зависимости:
